@@ -9,9 +9,14 @@
 
 ## 1Content
 
-一个lec slide
-一个discussion answer
-一个smart physics prelecture slide
+Resources
+1. 一个lec slide
+2. 一个discussion answer
+3. 一个smart physics prelecture slide
+Ipynb
+1. 作业smartphysics1-14
+2. 期中sample两个
+3. 期末sample两个
 
 
 ## 2期中经验
@@ -28,6 +33,7 @@
 6. 然后时间就是不够，只能说能做多少算多少吧
 7. ！！！！对我个人来说，我个人很残缺的一点就是工整打草稿，因为我打草稿比较潦草的原因，其实是有些能做出来的题还是错了很多次的，这个在后面的285考试有了很大改观，因为我直接一道题用一页草稿纸+一页答题卡，这样就可以很肆意地写，然后总结出来最简最规范的步骤模式之后就可以直接快速套用在别的题上面了
 8. ppt的话就记住热导公式，然后cycle跟学me200的人学一下，我觉得剩下ppt也没什么有用的了
+9. hw15 fussion确实是没有考
 
 
 
