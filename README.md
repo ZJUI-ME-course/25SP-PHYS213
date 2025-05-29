@@ -1,10 +1,17 @@
 # 25SP-PHYS213
 
 
-## 1Content
+## 总述
 一开始觉得这门课应该很像me200，因为看ppt包含了很多公式推导和me200中的部分内容
 但是其实这门课只需要掌握公式即可，非常简单
 考完都说op不是人，但是curve出分后给他平反了
+
+
+## 1Content
+
+一个lec slide
+一个discussion answer
+一个smart physics prelecture slide
 
 
 ## 2期中经验
