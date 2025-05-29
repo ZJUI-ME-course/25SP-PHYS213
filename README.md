@@ -13,6 +13,7 @@ Resources
 1. 一个lec slide
 2. 一个discussion answer
 3. 一个smart physics prelecture slide
+
 Ipynb
 1. 作业smartphysics1-14
 2. 期中sample两个
